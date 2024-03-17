@@ -1,0 +1,65 @@
+.mr-1,
+.ml-1 {
+    text-decoration: none;
+    color: white;
+}
+
+span {
+    color: white;
+    cursor: pointer;
+}
+
+.navbar {
+    box-shadow: 0 0 5px 2.5px gray;
+}
+
+#logo {
+    width: 80px;
+    height: 50px;
+}
+
+#hamburger-meni {
+    display: none;
+    color: white;
+}
+
+@media screen and (max-width: 700px) {
+    .link {
+        font-size: 1rem;
+    }
+
+    #logo {
+        margin-left: 40px !important;
+    }
+
+}
+
+@media screen and (max-width: 600px) {
+    .link {
+        font-size: 0.8rem;
+    }
+
+    #logo {
+        margin-left: 10px !important;
+    }
+
+}
+
+@media screen and (max-width: 450px) {
+
+    .logo,
+    #hamburger-meni {
+        font-size: 1rem;
+        display: block;
+    }
+
+    .link {
+        display: none;
+    }
+
+    #logo {
+        margin-left: none !important;
+        margin-right: 60px !important;
+    }
+
+}

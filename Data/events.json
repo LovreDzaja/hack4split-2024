@@ -1,0 +1,702 @@
+[
+  {
+    "city": "Trogir",
+    "activity": "Skydiving in Trogir",
+    "latitude": 43.42937225316615,
+    "longitude": 16.22344144413978,
+    "phone": "+385 554965374"
+  },
+  {
+    "city": "Sibenik",
+    "activity": "ATV riding in Sibenik",
+    "latitude": 43.6013927081302,
+    "longitude": 15.804740056008093,
+    "phone": "+385 002282836"
+  },
+  {
+    "city": "Sibenik",
+    "activity": "Paragliding in Sibenik",
+    "latitude": 43.77891793223221,
+    "longitude": 15.999139128463542,
+    "phone": "+385 064895314"
+  },
+  {
+    "city": "Trogir",
+    "activity": "Snorkeling in Trogir",
+    "latitude": 43.41793251300298,
+    "longitude": 16.28797452020303,
+    "phone": "+385 233469720"
+  },
+  {
+    "city": "Vis",
+    "activity": "Bungee jumping in Vis",
+    "latitude": 43.139544452135944,
+    "longitude": 16.11114219039846,
+    "phone": "+385 324056903"
+  },
+  {
+    "city": "Sibenik",
+    "activity": "ATV riding in Sibenik",
+    "latitude": 43.76759981968819,
+    "longitude": 15.868830365429064,
+    "phone": "+385 733727454"
+  },
+  {
+    "city": "Vis",
+    "activity": "ATV riding in Vis",
+    "latitude": 42.90545734023596,
+    "longitude": 15.981898653260096,
+    "phone": "+385 982536047"
+  },
+  {
+    "city": "Korcula",
+    "activity": "Canyoning in Korcula",
+    "latitude": 42.927733997670295,
+    "longitude": 16.986847523250095,
+    "phone": "+385 422884783"
+  },
+  {
+    "city": "Brac",
+    "activity": "Mountain biking in Brac",
+    "latitude": 43.457119841595286,
+    "longitude": 16.655119342749558,
+    "phone": "+385 240080223"
+  },
+  {
+    "city": "Dubrovnik",
+    "activity": "Bungee jumping in Dubrovnik",
+    "latitude": 42.651265022378794,
+    "longitude": 18.0867381019854,
+    "phone": "+385 529655438"
+  },
+  {
+    "city": "Dubrovnik",
+    "activity": "Canyoning in Dubrovnik",
+    "latitude": 42.7793825231641,
+    "longitude": 18.027004919552766,
+    "phone": "+385 844434367"
+  },
+  {
+    "city": "Korcula",
+    "activity": "Snowboarding in Korcula",
+    "latitude": 42.92561864792192,
+    "longitude": 16.973708987789724,
+    "phone": "+385 719283987"
+  },
+  {
+    "city": "Hvar",
+    "activity": "Whitewater rafting in Hvar",
+    "latitude": 43.26837857176894,
+    "longitude": 16.470241256093765,
+    "phone": "+385 460141859"
+  },
+  {
+    "city": "Hvar",
+    "activity": "Jet skiing in Hvar",
+    "latitude": 43.0175562724957,
+    "longitude": 16.328063653575708,
+    "phone": "+385 471787203"
+  },
+  {
+    "city": "Trogir",
+    "activity": "Canyoning in Trogir",
+    "latitude": 43.5812862414893,
+    "longitude": 16.240841757618075,
+    "phone": "+385 506423319"
+  },
+  {
+    "city": "Hvar",
+    "activity": "Snowboarding in Hvar",
+    "latitude": 43.02124918058339,
+    "longitude": 16.449851061513037,
+    "phone": "+385 122644030"
+  },
+  {
+    "city": "Korcula",
+    "activity": "Rock climbing in Korcula",
+    "latitude": 42.94184516387148,
+    "longitude": 17.018823025207844,
+    "phone": "+385 279295694"
+  },
+  {
+    "city": "Sibenik",
+    "activity": "Skydiving in Sibenik",
+    "latitude": 43.60468570596865,
+    "longitude": 15.962120950008028,
+    "phone": "+385 449884273"
+  },
+  {
+    "city": "Makarska",
+    "activity": "Parasailing in Makarska",
+    "latitude": 43.38827055258099,
+    "longitude": 16.85124120558115,
+    "phone": "+385 139734601"
+  },
+  {
+    "city": "Hvar",
+    "activity": "Paragliding in Hvar",
+    "latitude": 43.22679572708241,
+    "longitude": 16.30798779829785,
+    "phone": "+385 360106673"
+  },
+  {
+    "city": "Sibenik",
+    "activity": "Parasailing in Sibenik",
+    "latitude": 43.605654909695396,
+    "longitude": 15.969444533443166,
+    "phone": "+385 590259153"
+  },
+  {
+    "city": "Vis",
+    "activity": "Bungee jumping in Vis",
+    "latitude": 43.092161270325384,
+    "longitude": 16.051001521882682,
+    "phone": "+385 162582406"
+  },
+  {
+    "city": "Hvar",
+    "activity": "Base jumping in Hvar",
+    "latitude": 43.13108873401084,
+    "longitude": 16.58247241085208,
+    "phone": "+385 850013424"
+  },
+  {
+    "city": "Split",
+    "activity": "Rock climbing in Split",
+    "latitude": 43.409942516241536,
+    "longitude": 16.336688225784037,
+    "phone": "+385 538281960"
+  },
+  {
+    "city": "Hvar",
+    "activity": "Wakeboarding in Hvar",
+    "latitude": 43.06706814343138,
+    "longitude": 16.570048877341666,
+    "phone": "+385 496060944"
+  },
+  {
+    "city": "Sibenik",
+    "activity": "Kitesurfing in Sibenik",
+    "latitude": 43.623200267834704,
+    "longitude": 15.960642617922796,
+    "phone": "+385 349510311"
+  },
+  {
+    "city": "Sibenik",
+    "activity": "Canyoning in Sibenik",
+    "latitude": 43.64168616852917,
+    "longitude": 15.989871317569268,
+    "phone": "+385 794410340"
+  },
+  {
+    "city": "Trogir",
+    "activity": "Bungee jumping in Trogir",
+    "latitude": 43.58458114700225,
+    "longitude": 16.254464190793676,
+    "phone": "+385 959155138"
+  },
+  {
+    "city": "Makarska",
+    "activity": "Rock climbing in Makarska",
+    "latitude": 43.201241960041436,
+    "longitude": 16.834048322342376,
+    "phone": "+385 941276901"
+  },
+  {
+    "city": "Korcula",
+    "activity": "Snorkeling in Korcula",
+    "latitude": 42.752554500612376,
+    "longitude": 16.985063409274357,
+    "phone": "+385 234537131"
+  },
+  {
+    "city": "Sibenik",
+    "activity": "Canyoning in Sibenik",
+    "latitude": 43.634784052957144,
+    "longitude": 16.093893048339684,
+    "phone": "+385 447648505"
+  },
+  {
+    "city": "Hvar",
+    "activity": "Base jumping in Hvar",
+    "latitude": 43.210000412601275,
+    "longitude": 16.47401096907372,
+    "phone": "+385 375158582"
+  },
+  {
+    "city": "Split",
+    "activity": "Parasailing in Split",
+    "latitude": 43.57745321213259,
+    "longitude": 16.598844881163703,
+    "phone": "+385 288737477"
+  },
+  {
+    "city": "Brac",
+    "activity": "Diving in Brac",
+    "latitude": 43.27884639141594,
+    "longitude": 16.52333412583322,
+    "phone": "+385 772962248"
+  },
+  {
+    "city": "Vis",
+    "activity": "Base jumping in Vis",
+    "latitude": 42.91477344581997,
+    "longitude": 16.19299344806292,
+    "phone": "+385 533079692"
+  },
+  {
+    "city": "Trogir",
+    "activity": "Hang gliding in Trogir",
+    "latitude": 43.55351754055706,
+    "longitude": 16.29125191231475,
+    "phone": "+385 553241610"
+  },
+  {
+    "city": "Makarska",
+    "activity": "Surfing in Makarska",
+    "latitude": 43.2450982549161,
+    "longitude": 16.813415623646762,
+    "phone": "+385 094362101"
+  },
+  {
+    "city": "Brac",
+    "activity": "Canyoning in Brac",
+    "latitude": 43.42586864874453,
+    "longitude": 16.6431725190777,
+    "phone": "+385 283516649"
+  },
+  {
+    "city": "Omis",
+    "activity": "Canyoning in Omis",
+    "latitude": 43.42925505587217,
+    "longitude": 16.565701172426916,
+    "phone": "+385 786973393"
+  },
+  {
+    "city": "Vis",
+    "activity": "Zip-lining in Vis",
+    "latitude": 42.99647643453868,
+    "longitude": 16.11678988731704,
+    "phone": "+385 950079056"
+  },
+  {
+    "city": "Vis",
+    "activity": "Skydiving in Vis",
+    "latitude": 43.163696297206386,
+    "longitude": 15.940479267902811,
+    "phone": "+385 747123834"
+  },
+  {
+    "city": "Brac",
+    "activity": "Kitesurfing in Brac",
+    "latitude": 43.38120838866392,
+    "longitude": 16.740211374558946,
+    "phone": "+385 574681149"
+  },
+  {
+    "city": "Split",
+    "activity": "Wakeboarding in Split",
+    "latitude": 43.57967024676757,
+    "longitude": 16.420510423959247,
+    "phone": "+385 842688853"
+  },
+  {
+    "city": "Vis",
+    "activity": "Whitewater rafting in Vis",
+    "latitude": 42.90897103803555,
+    "longitude": 16.08972487504707,
+    "phone": "+385 180848058"
+  },
+  {
+    "city": "Trogir",
+    "activity": "Jet skiing in Trogir",
+    "latitude": 43.42399314652432,
+    "longitude": 16.444342907075658,
+    "phone": "+385 750581291"
+  },
+  {
+    "city": "Vis",
+    "activity": "Mountain biking in Vis",
+    "latitude": 43.07198679475473,
+    "longitude": 16.18965768249248,
+    "phone": "+385 817354588"
+  },
+  {
+    "city": "Korcula",
+    "activity": "Hang gliding in Korcula",
+    "latitude": 42.931902605242676,
+    "longitude": 17.176198406714484,
+    "phone": "+385 182222772"
+  },
+  {
+    "city": "Brac",
+    "activity": "Parasailing in Brac",
+    "latitude": 43.23513817389214,
+    "longitude": 16.521311012369814,
+    "phone": "+385 856535032"
+  },
+  {
+    "city": "Makarska",
+    "activity": "Whitewater rafting in Makarska",
+    "latitude": 43.29543453723708,
+    "longitude": 16.85833690393587,
+    "phone": "+385 067400385"
+  },
+  {
+    "city": "Sibenik",
+    "activity": "Wakeboarding in Sibenik",
+    "latitude": 43.63875784068656,
+    "longitude": 15.937675662549145,
+    "phone": "+385 783061816"
+  },
+  {
+    "city": "Vis",
+    "activity": "Rock climbing in Vis",
+    "latitude": 43.02188137837819,
+    "longitude": 16.001514581880002,
+    "phone": "+385 387564727"
+  },
+  {
+    "city": "Omis",
+    "activity": "Skiing in Omis",
+    "latitude": 43.5807814393229,
+    "longitude": 16.787398082928984,
+    "phone": "+385 337672873"
+  },
+  {
+    "city": "Brac",
+    "activity": "Rock climbing in Brac",
+    "latitude": 43.282714149154785,
+    "longitude": 16.772685790716576,
+    "phone": "+385 178705475"
+  },
+  {
+    "city": "Split",
+    "activity": "Rock climbing in Split",
+    "latitude": 43.47113281723959,
+    "longitude": 16.47338130317882,
+    "phone": "+385 544446620"
+  },
+  {
+    "city": "Vis",
+    "activity": "Kitesurfing in Vis",
+    "latitude": 43.145299438185965,
+    "longitude": 16.17236869315481,
+    "phone": "+385 993852394"
+  },
+  {
+    "city": "Omis",
+    "activity": "Snowboarding in Omis",
+    "latitude": 43.54579650112754,
+    "longitude": 16.633473247629837,
+    "phone": "+385 393107324"
+  },
+  {
+    "city": "Dubrovnik",
+    "activity": "Wakeboarding in Dubrovnik",
+    "latitude": 42.70980140552969,
+    "longitude": 17.978182569171757,
+    "phone": "+385 678685436"
+  },
+  {
+    "city": "Sibenik",
+    "activity": "Hang gliding in Sibenik",
+    "latitude": 43.61176494824919,
+    "longitude": 15.844187073707541,
+    "phone": "+385 569223382"
+  },
+  {
+    "city": "Omis",
+    "activity": "Bungee jumping in Omis",
+    "latitude": 43.45264763442959,
+    "longitude": 16.74348235572755,
+    "phone": "+385 172868575"
+  },
+  {
+    "city": "Sibenik",
+    "activity": "Mountain biking in Sibenik",
+    "latitude": 43.74854572131294,
+    "longitude": 16.02131118238797,
+    "phone": "+385 015393480"
+  },
+  {
+    "city": "Korcula",
+    "activity": "Rock climbing in Korcula",
+    "latitude": 42.84921208505092,
+    "longitude": 17.163767371763928,
+    "phone": "+385 081649534"
+  },
+  {
+    "city": "Vis",
+    "activity": "Bungee jumping in Vis",
+    "latitude": 42.95037820095801,
+    "longitude": 16.120019101028607,
+    "phone": "+385 133840111"
+  },
+  {
+    "city": "Korcula",
+    "activity": "Base jumping in Korcula",
+    "latitude": 42.78193225176613,
+    "longitude": 16.969281274129884,
+    "phone": "+385 270960701"
+  },
+  {
+    "city": "Makarska",
+    "activity": "Paragliding in Makarska",
+    "latitude": 43.31400004108072,
+    "longitude": 17.086732780634968,
+    "phone": "+385 111620055"
+  },
+  {
+    "city": "Dubrovnik",
+    "activity": "Mountain biking in Dubrovnik",
+    "latitude": 42.616596147238205,
+    "longitude": 17.923553322123453,
+    "phone": "+385 396948138"
+  },
+  {
+    "city": "Sibenik",
+    "activity": "Mountain biking in Sibenik",
+    "latitude": 43.67087055410614,
+    "longitude": 16.065912565154534,
+    "phone": "+385 988505170"
+  },
+  {
+    "city": "Makarska",
+    "activity": "Skydiving in Makarska",
+    "latitude": 43.4902604610125,
+    "longitude": 16.836061925847822,
+    "phone": "+385 800953628"
+  },
+  {
+    "city": "Hvar",
+    "activity": "Base jumping in Hvar",
+    "latitude": 43.184100794115906,
+    "longitude": 16.417056332109514,
+    "phone": "+385 630789021"
+  },
+  {
+    "city": "Brac",
+    "activity": "Diving in Brac",
+    "latitude": 43.49246709373772,
+    "longitude": 16.6672592957585,
+    "phone": "+385 899805047"
+  },
+  {
+    "city": "Vis",
+    "activity": "Kitesurfing in Vis",
+    "latitude": 42.9178626530035,
+    "longitude": 16.17203441702433,
+    "phone": "+385 139171260"
+  },
+  {
+    "city": "Omis",
+    "activity": "Skiing in Omis",
+    "latitude": 43.52667268564024,
+    "longitude": 16.729450678333425,
+    "phone": "+385 442297166"
+  },
+  {
+    "city": "Vis",
+    "activity": "Rock climbing in Vis",
+    "latitude": 43.17921024967654,
+    "longitude": 15.915236387469058,
+    "phone": "+385 167059630"
+  },
+  {
+    "city": "Trogir",
+    "activity": "Skydiving in Trogir",
+    "latitude": 43.476216844209766,
+    "longitude": 16.426053816007673,
+    "phone": "+385 585088956"
+  },
+  {
+    "city": "Split",
+    "activity": "Rock climbing in Split",
+    "latitude": 43.56773310620758,
+    "longitude": 16.47066988117407,
+    "phone": "+385 168222279"
+  },
+  {
+    "city": "Korcula",
+    "activity": "Jet skiing in Korcula",
+    "latitude": 42.903653847299104,
+    "longitude": 17.12596039965987,
+    "phone": "+385 479210119"
+  },
+  {
+    "city": "Sibenik",
+    "activity": "Hang gliding in Sibenik",
+    "latitude": 43.78241251460471,
+    "longitude": 16.012367602422287,
+    "phone": "+385 765271824"
+  },
+  {
+    "city": "Korcula",
+    "activity": "Skiing in Korcula",
+    "latitude": 42.73630742848178,
+    "longitude": 17.076118653169342,
+    "phone": "+385 378864797"
+  },
+  {
+    "city": "Dubrovnik",
+    "activity": "Mountain biking in Dubrovnik",
+    "latitude": 42.59078441153731,
+    "longitude": 17.931177266903855,
+    "phone": "+385 807702690"
+  },
+  {
+    "city": "Brac",
+    "activity": "Base jumping in Brac",
+    "latitude": 43.474926473354365,
+    "longitude": 16.56668903423603,
+    "phone": "+385 624258688"
+  },
+  {
+    "city": "Omis",
+    "activity": "Canyoning in Omis",
+    "latitude": 43.58051524806756,
+    "longitude": 16.500523676982528,
+    "phone": "+385 372889785"
+  },
+  {
+    "city": "Vis",
+    "activity": "Canyoning in Vis",
+    "latitude": 43.08226629615942,
+    "longitude": 16.17524990893597,
+    "phone": "+385 233426334"
+  },
+  {
+    "city": "Korcula",
+    "activity": "Bungee jumping in Korcula",
+    "latitude": 42.854263648892875,
+    "longitude": 16.968796253154903,
+    "phone": "+385 302654363"
+  },
+  {
+    "city": "Trogir",
+    "activity": "Canyoning in Trogir",
+    "latitude": 43.49392856101583,
+    "longitude": 16.48873383856429,
+    "phone": "+385 328860080"
+  },
+  {
+    "city": "Omis",
+    "activity": "Skiing in Omis",
+    "latitude": 43.40288539672472,
+    "longitude": 16.587637240261024,
+    "phone": "+385 061728448"
+  },
+  {
+    "city": "Vis",
+    "activity": "Jet skiing in Vis",
+    "latitude": 43.16615034960239,
+    "longitude": 16.173802663214683,
+    "phone": "+385 093445662"
+  },
+  {
+    "city": "Brac",
+    "activity": "Kitesurfing in Brac",
+    "latitude": 43.22054606328045,
+    "longitude": 16.731706933708185,
+    "phone": "+385 393642836"
+  },
+  {
+    "city": "Sibenik",
+    "activity": "Base jumping in Sibenik",
+    "latitude": 43.729813270455764,
+    "longitude": 15.98404689084038,
+    "phone": "+385 566657397"
+  },
+  {
+    "city": "Sibenik",
+    "activity": "Skiing in Sibenik",
+    "latitude": 43.72903966135485,
+    "longitude": 16.049236654807473,
+    "phone": "+385 940845200"
+  },
+  {
+    "city": "Vis",
+    "activity": "Rock climbing in Vis",
+    "latitude": 42.95433526463041,
+    "longitude": 15.956934746107263,
+    "phone": "+385 253259020"
+  },
+  {
+    "city": "Hvar",
+    "activity": "Base jumping in Hvar",
+    "latitude": 43.10611761478871,
+    "longitude": 16.570104916941236,
+    "phone": "+385 014328045"
+  },
+  {
+    "city": "Split",
+    "activity": "Hang gliding in Split",
+    "latitude": 43.42748094489453,
+    "longitude": 16.365238533788855,
+    "phone": "+385 227009324"
+  },
+  {
+    "city": "Brac",
+    "activity": "Snowboarding in Brac",
+    "latitude": 43.38460504312435,
+    "longitude": 16.575433950431414,
+    "phone": "+385 582525889"
+  },
+  {
+    "city": "Omis",
+    "activity": "Whitewater rafting in Omis",
+    "latitude": 43.566041340395955,
+    "longitude": 16.726536651057998,
+    "phone": "+385 771141894"
+  },
+  {
+    "city": "Sibenik",
+    "activity": "Whitewater rafting in Sibenik",
+    "latitude": 43.74041797990567,
+    "longitude": 15.916461502531487,
+    "phone": "+385 532932907"
+  },
+  {
+    "city": "Korcula",
+    "activity": "Base jumping in Korcula",
+    "latitude": 42.708149433803165,
+    "longitude": 17.179065676949957,
+    "phone": "+385 174030249"
+  },
+  {
+    "city": "Omis",
+    "activity": "Mountain biking in Omis",
+    "latitude": 43.55576709232885,
+    "longitude": 16.534121346769453,
+    "phone": "+385 217906957"
+  },
+  {
+    "city": "Sibenik",
+    "activity": "Base jumping in Sibenik",
+    "latitude": 43.64104532116093,
+    "longitude": 15.839425758951544,
+    "phone": "+385 893892742"
+  },
+  {
+    "city": "Korcula",
+    "activity": "Paragliding in Korcula",
+    "latitude": 42.728204587892044,
+    "longitude": 17.059437876615707,
+    "phone": "+385 035523317"
+  },
+  {
+    "city": "Vis",
+    "activity": "Base jumping in Vis",
+    "latitude": 43.17578348047959,
+    "longitude": 16.13698020416421,
+    "phone": "+385 165731799"
+  },
+  {
+    "city": "Sibenik",
+    "activity": "Surfing in Sibenik",
+    "latitude": 43.77838405488016,
+    "longitude": 15.9186853669286,
+    "phone": "+385 455372031"
+  }
+]

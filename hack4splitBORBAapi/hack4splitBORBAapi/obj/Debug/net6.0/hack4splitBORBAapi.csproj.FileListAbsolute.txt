@@ -1,0 +1,212 @@
+C:\Users\Pier Strbad\Desktop\Coding Projects\Projects\ProjectsWithAngular\WorkTimeManagment\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Pier Strbad\Desktop\Coding Projects\Projects\ProjectsWithAngular\WorkTimeManagment\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\appsettings.json
+C:\Users\Pier Strbad\Desktop\Coding Projects\Projects\ProjectsWithAngular\WorkTimeManagment\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\hack4splitBORBAapi.exe
+C:\Users\Pier Strbad\Desktop\Coding Projects\Projects\ProjectsWithAngular\WorkTimeManagment\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\hack4splitBORBAapi.deps.json
+C:\Users\Pier Strbad\Desktop\Coding Projects\Projects\ProjectsWithAngular\WorkTimeManagment\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\hack4splitBORBAapi.runtimeconfig.json
+C:\Users\Pier Strbad\Desktop\Coding Projects\Projects\ProjectsWithAngular\WorkTimeManagment\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\hack4splitBORBAapi.dll
+C:\Users\Pier Strbad\Desktop\Coding Projects\Projects\ProjectsWithAngular\WorkTimeManagment\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\hack4splitBORBAapi.pdb
+C:\Users\Pier Strbad\Desktop\Coding Projects\Projects\ProjectsWithAngular\WorkTimeManagment\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Pier Strbad\Desktop\Coding Projects\Projects\ProjectsWithAngular\WorkTimeManagment\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Pier Strbad\Desktop\Coding Projects\Projects\ProjectsWithAngular\WorkTimeManagment\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Pier Strbad\Desktop\Coding Projects\Projects\ProjectsWithAngular\WorkTimeManagment\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Pier Strbad\Desktop\Coding Projects\Projects\ProjectsWithAngular\WorkTimeManagment\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Pier Strbad\Desktop\Coding Projects\Projects\ProjectsWithAngular\WorkTimeManagment\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Pier Strbad\Desktop\Coding Projects\Projects\ProjectsWithAngular\WorkTimeManagment\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Pier Strbad\Desktop\Coding Projects\Projects\ProjectsWithAngular\WorkTimeManagment\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Pier Strbad\Desktop\Coding Projects\Projects\ProjectsWithAngular\WorkTimeManagment\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Pier Strbad\Desktop\Coding Projects\Projects\ProjectsWithAngular\WorkTimeManagment\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Pier Strbad\Desktop\Coding Projects\Projects\ProjectsWithAngular\WorkTimeManagment\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Pier Strbad\Desktop\Coding Projects\Projects\ProjectsWithAngular\WorkTimeManagment\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Pier Strbad\Desktop\Coding Projects\Projects\ProjectsWithAngular\WorkTimeManagment\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Pier Strbad\Desktop\Coding Projects\Projects\ProjectsWithAngular\WorkTimeManagment\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Pier Strbad\Desktop\Coding Projects\Projects\ProjectsWithAngular\WorkTimeManagment\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Pier Strbad\Desktop\Coding Projects\Projects\ProjectsWithAngular\WorkTimeManagment\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Pier Strbad\Desktop\Coding Projects\Projects\ProjectsWithAngular\WorkTimeManagment\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Pier Strbad\Desktop\Coding Projects\Projects\ProjectsWithAngular\WorkTimeManagment\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Pier Strbad\Desktop\Coding Projects\Projects\ProjectsWithAngular\WorkTimeManagment\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Pier Strbad\Desktop\Coding Projects\Projects\ProjectsWithAngular\WorkTimeManagment\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Pier Strbad\Desktop\Coding Projects\Projects\ProjectsWithAngular\WorkTimeManagment\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Pier Strbad\Desktop\Coding Projects\Projects\ProjectsWithAngular\WorkTimeManagment\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Pier Strbad\Desktop\Coding Projects\Projects\ProjectsWithAngular\WorkTimeManagment\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Pier Strbad\Desktop\Coding Projects\Projects\ProjectsWithAngular\WorkTimeManagment\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Pier Strbad\Desktop\Coding Projects\Projects\ProjectsWithAngular\WorkTimeManagment\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Pier Strbad\Desktop\Coding Projects\Projects\ProjectsWithAngular\WorkTimeManagment\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Pier Strbad\Desktop\Coding Projects\Projects\ProjectsWithAngular\WorkTimeManagment\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Pier Strbad\Desktop\Coding Projects\Projects\ProjectsWithAngular\WorkTimeManagment\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Pier Strbad\Desktop\Coding Projects\Projects\ProjectsWithAngular\WorkTimeManagment\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Pier Strbad\Desktop\Coding Projects\Projects\ProjectsWithAngular\WorkTimeManagment\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Pier Strbad\Desktop\Coding Projects\Projects\ProjectsWithAngular\WorkTimeManagment\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Pier Strbad\Desktop\Coding Projects\Projects\ProjectsWithAngular\WorkTimeManagment\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Pier Strbad\Desktop\Coding Projects\Projects\ProjectsWithAngular\WorkTimeManagment\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Pier Strbad\Desktop\Coding Projects\Projects\ProjectsWithAngular\WorkTimeManagment\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Pier Strbad\Desktop\Coding Projects\Projects\ProjectsWithAngular\WorkTimeManagment\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Pier Strbad\Desktop\Coding Projects\Projects\ProjectsWithAngular\WorkTimeManagment\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Pier Strbad\Desktop\Coding Projects\Projects\ProjectsWithAngular\WorkTimeManagment\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Pier Strbad\Desktop\Coding Projects\Projects\ProjectsWithAngular\WorkTimeManagment\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Pier Strbad\Desktop\Coding Projects\Projects\ProjectsWithAngular\WorkTimeManagment\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Pier Strbad\Desktop\Coding Projects\Projects\ProjectsWithAngular\WorkTimeManagment\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Pier Strbad\Desktop\Coding Projects\Projects\ProjectsWithAngular\WorkTimeManagment\hack4splitBORBAapi\hack4splitBORBAapi\obj\Debug\net6.0\hack4splitBORBAapi.csproj.AssemblyReference.cache
+C:\Users\Pier Strbad\Desktop\Coding Projects\Projects\ProjectsWithAngular\WorkTimeManagment\hack4splitBORBAapi\hack4splitBORBAapi\obj\Debug\net6.0\hack4splitBORBAapi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pier Strbad\Desktop\Coding Projects\Projects\ProjectsWithAngular\WorkTimeManagment\hack4splitBORBAapi\hack4splitBORBAapi\obj\Debug\net6.0\hack4splitBORBAapi.AssemblyInfoInputs.cache
+C:\Users\Pier Strbad\Desktop\Coding Projects\Projects\ProjectsWithAngular\WorkTimeManagment\hack4splitBORBAapi\hack4splitBORBAapi\obj\Debug\net6.0\hack4splitBORBAapi.AssemblyInfo.cs
+C:\Users\Pier Strbad\Desktop\Coding Projects\Projects\ProjectsWithAngular\WorkTimeManagment\hack4splitBORBAapi\hack4splitBORBAapi\obj\Debug\net6.0\hack4splitBORBAapi.csproj.CoreCompileInputs.cache
+C:\Users\Pier Strbad\Desktop\Coding Projects\Projects\ProjectsWithAngular\WorkTimeManagment\hack4splitBORBAapi\hack4splitBORBAapi\obj\Debug\net6.0\hack4splitBORBAapi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Pier Strbad\Desktop\Coding Projects\Projects\ProjectsWithAngular\WorkTimeManagment\hack4splitBORBAapi\hack4splitBORBAapi\obj\Debug\net6.0\hack4splitBORBAapi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Pier Strbad\Desktop\Coding Projects\Projects\ProjectsWithAngular\WorkTimeManagment\hack4splitBORBAapi\hack4splitBORBAapi\obj\Debug\net6.0\staticwebassets\msbuild.hack4splitBORBAapi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Pier Strbad\Desktop\Coding Projects\Projects\ProjectsWithAngular\WorkTimeManagment\hack4splitBORBAapi\hack4splitBORBAapi\obj\Debug\net6.0\staticwebassets\msbuild.build.hack4splitBORBAapi.props
+C:\Users\Pier Strbad\Desktop\Coding Projects\Projects\ProjectsWithAngular\WorkTimeManagment\hack4splitBORBAapi\hack4splitBORBAapi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.hack4splitBORBAapi.props
+C:\Users\Pier Strbad\Desktop\Coding Projects\Projects\ProjectsWithAngular\WorkTimeManagment\hack4splitBORBAapi\hack4splitBORBAapi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.hack4splitBORBAapi.props
+C:\Users\Pier Strbad\Desktop\Coding Projects\Projects\ProjectsWithAngular\WorkTimeManagment\hack4splitBORBAapi\hack4splitBORBAapi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Pier Strbad\Desktop\Coding Projects\Projects\ProjectsWithAngular\WorkTimeManagment\hack4splitBORBAapi\hack4splitBORBAapi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Pier Strbad\Desktop\Coding Projects\Projects\ProjectsWithAngular\WorkTimeManagment\hack4splitBORBAapi\hack4splitBORBAapi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Pier Strbad\Desktop\Coding Projects\Projects\ProjectsWithAngular\WorkTimeManagment\hack4splitBORBAapi\hack4splitBORBAapi\obj\Debug\net6.0\scopedcss\bundle\hack4splitBORBAapi.styles.css
+C:\Users\Pier Strbad\Desktop\Coding Projects\Projects\ProjectsWithAngular\WorkTimeManagment\hack4splitBORBAapi\hack4splitBORBAapi\obj\Debug\net6.0\hack4splitBORBAapi.csproj.CopyComplete
+C:\Users\Pier Strbad\Desktop\Coding Projects\Projects\ProjectsWithAngular\WorkTimeManagment\hack4splitBORBAapi\hack4splitBORBAapi\obj\Debug\net6.0\hack4splitBORBAapi.dll
+C:\Users\Pier Strbad\Desktop\Coding Projects\Projects\ProjectsWithAngular\WorkTimeManagment\hack4splitBORBAapi\hack4splitBORBAapi\obj\Debug\net6.0\refint\hack4splitBORBAapi.dll
+C:\Users\Pier Strbad\Desktop\Coding Projects\Projects\ProjectsWithAngular\WorkTimeManagment\hack4splitBORBAapi\hack4splitBORBAapi\obj\Debug\net6.0\hack4splitBORBAapi.pdb
+C:\Users\Pier Strbad\Desktop\Coding Projects\Projects\ProjectsWithAngular\WorkTimeManagment\hack4splitBORBAapi\hack4splitBORBAapi\obj\Debug\net6.0\hack4splitBORBAapi.genruntimeconfig.cache
+C:\Users\Pier Strbad\Desktop\Coding Projects\Projects\ProjectsWithAngular\WorkTimeManagment\hack4splitBORBAapi\hack4splitBORBAapi\obj\Debug\net6.0\ref\hack4splitBORBAapi.dll
+E:\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\appsettings.Development.json
+E:\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\appsettings.json
+E:\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\hack4splitBORBAapi.exe
+E:\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\hack4splitBORBAapi.deps.json
+E:\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\hack4splitBORBAapi.runtimeconfig.json
+E:\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\hack4splitBORBAapi.dll
+E:\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\hack4splitBORBAapi.pdb
+E:\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\Humanizer.dll
+E:\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\hack4splitBORBAapi\hack4splitBORBAapi\obj\Debug\net6.0\hack4splitBORBAapi.csproj.AssemblyReference.cache
+E:\hack4splitBORBAapi\hack4splitBORBAapi\obj\Debug\net6.0\hack4splitBORBAapi.GeneratedMSBuildEditorConfig.editorconfig
+E:\hack4splitBORBAapi\hack4splitBORBAapi\obj\Debug\net6.0\hack4splitBORBAapi.AssemblyInfoInputs.cache
+E:\hack4splitBORBAapi\hack4splitBORBAapi\obj\Debug\net6.0\hack4splitBORBAapi.AssemblyInfo.cs
+E:\hack4splitBORBAapi\hack4splitBORBAapi\obj\Debug\net6.0\hack4splitBORBAapi.csproj.CoreCompileInputs.cache
+E:\hack4splitBORBAapi\hack4splitBORBAapi\obj\Debug\net6.0\hack4splitBORBAapi.MvcApplicationPartsAssemblyInfo.cs
+E:\hack4splitBORBAapi\hack4splitBORBAapi\obj\Debug\net6.0\hack4splitBORBAapi.MvcApplicationPartsAssemblyInfo.cache
+E:\hack4splitBORBAapi\hack4splitBORBAapi\obj\Debug\net6.0\staticwebassets\msbuild.hack4splitBORBAapi.Microsoft.AspNetCore.StaticWebAssets.props
+E:\hack4splitBORBAapi\hack4splitBORBAapi\obj\Debug\net6.0\staticwebassets\msbuild.build.hack4splitBORBAapi.props
+E:\hack4splitBORBAapi\hack4splitBORBAapi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.hack4splitBORBAapi.props
+E:\hack4splitBORBAapi\hack4splitBORBAapi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.hack4splitBORBAapi.props
+E:\hack4splitBORBAapi\hack4splitBORBAapi\obj\Debug\net6.0\staticwebassets.pack.json
+E:\hack4splitBORBAapi\hack4splitBORBAapi\obj\Debug\net6.0\staticwebassets.build.json
+E:\hack4splitBORBAapi\hack4splitBORBAapi\obj\Debug\net6.0\staticwebassets.development.json
+E:\hack4splitBORBAapi\hack4splitBORBAapi\obj\Debug\net6.0\scopedcss\bundle\hack4splitBORBAapi.styles.css
+E:\hack4splitBORBAapi\hack4splitBORBAapi\obj\Debug\net6.0\hack4splitBORBAapi.csproj.CopyComplete
+E:\hack4splitBORBAapi\hack4splitBORBAapi\obj\Debug\net6.0\hack4splitBORBAapi.dll
+E:\hack4splitBORBAapi\hack4splitBORBAapi\obj\Debug\net6.0\refint\hack4splitBORBAapi.dll
+E:\hack4splitBORBAapi\hack4splitBORBAapi\obj\Debug\net6.0\hack4splitBORBAapi.pdb
+E:\hack4splitBORBAapi\hack4splitBORBAapi\obj\Debug\net6.0\hack4splitBORBAapi.genruntimeconfig.cache
+E:\hack4splitBORBAapi\hack4splitBORBAapi\obj\Debug\net6.0\ref\hack4splitBORBAapi.dll
+E:\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\Pier Strbad\Desktop\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Pier Strbad\Desktop\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\appsettings.json
+C:\Users\Pier Strbad\Desktop\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\hack4splitBORBAapi.exe
+C:\Users\Pier Strbad\Desktop\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\hack4splitBORBAapi.deps.json
+C:\Users\Pier Strbad\Desktop\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\hack4splitBORBAapi.runtimeconfig.json
+C:\Users\Pier Strbad\Desktop\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\hack4splitBORBAapi.dll
+C:\Users\Pier Strbad\Desktop\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\hack4splitBORBAapi.pdb
+C:\Users\Pier Strbad\Desktop\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Pier Strbad\Desktop\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Pier Strbad\Desktop\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Pier Strbad\Desktop\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Pier Strbad\Desktop\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Pier Strbad\Desktop\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Pier Strbad\Desktop\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Pier Strbad\Desktop\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Pier Strbad\Desktop\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Pier Strbad\Desktop\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Pier Strbad\Desktop\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Pier Strbad\Desktop\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Pier Strbad\Desktop\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Pier Strbad\Desktop\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Pier Strbad\Desktop\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Pier Strbad\Desktop\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Pier Strbad\Desktop\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Pier Strbad\Desktop\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Pier Strbad\Desktop\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Pier Strbad\Desktop\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Pier Strbad\Desktop\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\Pier Strbad\Desktop\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Pier Strbad\Desktop\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Pier Strbad\Desktop\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Pier Strbad\Desktop\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Pier Strbad\Desktop\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Pier Strbad\Desktop\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Pier Strbad\Desktop\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Pier Strbad\Desktop\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Pier Strbad\Desktop\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Pier Strbad\Desktop\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Pier Strbad\Desktop\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Pier Strbad\Desktop\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Pier Strbad\Desktop\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Pier Strbad\Desktop\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Pier Strbad\Desktop\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Pier Strbad\Desktop\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Pier Strbad\Desktop\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Pier Strbad\Desktop\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Pier Strbad\Desktop\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Pier Strbad\Desktop\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Pier Strbad\Desktop\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Pier Strbad\Desktop\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Pier Strbad\Desktop\hack4splitBORBAapi\hack4splitBORBAapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Pier Strbad\Desktop\hack4splitBORBAapi\hack4splitBORBAapi\obj\Debug\net6.0\hack4splitBORBAapi.csproj.AssemblyReference.cache
+C:\Users\Pier Strbad\Desktop\hack4splitBORBAapi\hack4splitBORBAapi\obj\Debug\net6.0\hack4splitBORBAapi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pier Strbad\Desktop\hack4splitBORBAapi\hack4splitBORBAapi\obj\Debug\net6.0\hack4splitBORBAapi.AssemblyInfoInputs.cache
+C:\Users\Pier Strbad\Desktop\hack4splitBORBAapi\hack4splitBORBAapi\obj\Debug\net6.0\hack4splitBORBAapi.AssemblyInfo.cs
+C:\Users\Pier Strbad\Desktop\hack4splitBORBAapi\hack4splitBORBAapi\obj\Debug\net6.0\hack4splitBORBAapi.csproj.CoreCompileInputs.cache
+C:\Users\Pier Strbad\Desktop\hack4splitBORBAapi\hack4splitBORBAapi\obj\Debug\net6.0\hack4splitBORBAapi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Pier Strbad\Desktop\hack4splitBORBAapi\hack4splitBORBAapi\obj\Debug\net6.0\hack4splitBORBAapi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Pier Strbad\Desktop\hack4splitBORBAapi\hack4splitBORBAapi\obj\Debug\net6.0\staticwebassets\msbuild.hack4splitBORBAapi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Pier Strbad\Desktop\hack4splitBORBAapi\hack4splitBORBAapi\obj\Debug\net6.0\staticwebassets\msbuild.build.hack4splitBORBAapi.props
+C:\Users\Pier Strbad\Desktop\hack4splitBORBAapi\hack4splitBORBAapi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.hack4splitBORBAapi.props
+C:\Users\Pier Strbad\Desktop\hack4splitBORBAapi\hack4splitBORBAapi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.hack4splitBORBAapi.props
+C:\Users\Pier Strbad\Desktop\hack4splitBORBAapi\hack4splitBORBAapi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Pier Strbad\Desktop\hack4splitBORBAapi\hack4splitBORBAapi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Pier Strbad\Desktop\hack4splitBORBAapi\hack4splitBORBAapi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Pier Strbad\Desktop\hack4splitBORBAapi\hack4splitBORBAapi\obj\Debug\net6.0\scopedcss\bundle\hack4splitBORBAapi.styles.css
+C:\Users\Pier Strbad\Desktop\hack4splitBORBAapi\hack4splitBORBAapi\obj\Debug\net6.0\hack4splitBORBAapi.csproj.CopyComplete
+C:\Users\Pier Strbad\Desktop\hack4splitBORBAapi\hack4splitBORBAapi\obj\Debug\net6.0\hack4splitBORBAapi.dll
+C:\Users\Pier Strbad\Desktop\hack4splitBORBAapi\hack4splitBORBAapi\obj\Debug\net6.0\refint\hack4splitBORBAapi.dll
+C:\Users\Pier Strbad\Desktop\hack4splitBORBAapi\hack4splitBORBAapi\obj\Debug\net6.0\hack4splitBORBAapi.pdb
+C:\Users\Pier Strbad\Desktop\hack4splitBORBAapi\hack4splitBORBAapi\obj\Debug\net6.0\hack4splitBORBAapi.genruntimeconfig.cache
+C:\Users\Pier Strbad\Desktop\hack4splitBORBAapi\hack4splitBORBAapi\obj\Debug\net6.0\ref\hack4splitBORBAapi.dll
