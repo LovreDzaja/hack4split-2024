@@ -16,3 +16,10 @@
 ## My part in given project
 - For duration of competition I have done frontend where everything you find will be responsive and functional as an hardcoded project.
 - There are still changes to make, same stands for backend since it isn't possible to do much for both in 24 hours
+
+## Folders
+- hackaton folder is where whole frontend is placed.
+- hack3splitBORBAapi_Bartul is where you will find the newest backend written.
+- Data folder contains dummy data that has been passed via backend to render out cards.
+- backup_files contain 2 filese where PasswordHasher.cs hashes the given password and saves it into the database.
+- UserModelDTOForLogin.cs is a model for getting persons username and password.
